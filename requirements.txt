@@ -8,4 +8,4 @@ openai
 # torchaudio
 # python-telegram-bot
 munch
-json5
+tkinter
